@@ -1,0 +1,20 @@
+.single-intro-main {
+    padding: 50px 0px 0px;
+    width: 100%;
+    text-align: center;
+  }
+  .single-intro-main .heading h2 {
+    background: url(../images/abou-head-stars.svg) no-repeat center bottom;
+    background-size: 75%;
+    padding-bottom: 60px;
+    font-size: 104px;
+    color: #ffc6cb;
+    text-align: center;
+    font-family: "Hamilton Script";
+  }
+  
+  .single-intro-main .intro-text {
+    padding: 0px 14% 75px;
+    background: url(../images/abou-head-sep.svg) no-repeat center bottom;
+    background-size: 75%;
+  }

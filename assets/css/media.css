@@ -1,0 +1,843 @@
+@media only screen and (min-width:320px) {}
+
+@media only screen and (min-width:480px) {}
+
+@media only screen and (min-width:768px) {}
+
+@media only screen and (min-width:1024px) {}
+
+@media only screen and (min-width:1140px) {}
+
+@media only screen and (min-width:1280px) {}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (min-resolution:144dpi) {}
+
+@media screen and (max-width: 1500px) {
+    .featured-service-main .featured-services-listing .block .caption {
+        width: 70%;
+        padding: 15px 10px;
+    }
+
+    .featured-service-main .featured-services-listing .block .caption .caption-text h3 {
+        font-size: 40px;
+    }
+    .featured-service-main .featured-services-listing .block .caption .fancy-circle {
+        width: 175px;
+        height: 175px;
+        right: -80px;
+        top: -30px;
+    }
+
+    .featured-service-main .featured-services-listing .block .caption button {
+        padding: 8px 19px;
+        font-size: 18px;
+    }
+
+    .featured-service-main .featured-services-listing .block .caption .fancy-circle h4 {
+        font-size: 66px;
+        line-height: 66px;
+    }
+
+    .featured-service-main .featured-services-listing .block .caption .fancy-circle h5 {
+        font-size: 36px;
+        line-height: 36px;
+    }
+}
+
+
+@media screen and (max-width: 1400px) {
+    .container {
+        max-width: 1300px;
+    }
+
+    .trending-section .trending-list {
+        padding: 15px;
+    }
+
+    .trending-section .trending-list .fancy-circle {
+        width: 280px;
+        height: 280px;
+        margin: 0px auto;
+    }
+}
+
+
+@media screen and (max-width: 1100px) {
+
+    .header-main .header-offer {
+        padding: 15px 0px;
+        font-size: 18px;
+    }
+
+    .header-main .header-offer .close-offer {
+        top: 10px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 20px;
+    }
+
+    .header-main .logo img {
+        min-width: 300px;
+    }
+
+
+    .header-main .header-middle {
+        padding: 30px 30px;
+    }
+
+    .trending-section .trending-list {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .header-nav ul li a {
+        font-size: 15px;
+    }
+
+    .hero-section .slide-1 {
+        min-height: 690px;
+    }
+
+    .hero-section .hero-caption {
+        padding: 33px 25px 0px 35px;
+        max-width: 550px;
+        bottom: 190px;
+    }
+    
+    .hero-section .hero-caption h2 {
+        font-size: 26px;
+    }
+    .hero-section .hero-caption h2 span {
+        font-size: 56px;
+    }
+
+    .hero-section .hero-caption ul li {
+        font-size: 20px;
+    }
+
+    .hero-section .hero-caption .fancy-circle {
+        font-size: 26px;
+        width: 230px;
+        height: 230px;
+        right: -80px;
+        bottom: -50px;
+    }
+    .hero-section .hero-caption .fancy-circle h4 {
+        font-size: 65px;
+        line-height: 65px;
+    }
+    
+    .hero-section .hero-caption .fancy-circle h5 {
+        font-size: 42px;
+        line-height: 42px;
+    }
+
+    .hero-section .hero-caption h3 {
+        font-size: 26px;
+    }
+
+    .featured-service-main .featured-services-listing .block .caption {
+        width: 90%;
+        padding: 10px 10px;
+        bottom: 8%;
+    }
+
+    .featured-service-main .featured-services-listing .block .caption .caption-text h3 {
+        font-size: 36px;
+    }
+
+    .featured-service-main .featured-services-listing .block .caption button {
+        padding: 6px 15px;
+        font-size: 16px;
+    }
+
+    .featured-service-main .featured-services-listing .block .caption .fancy-circle {
+        width: 135px;
+        height: 135px;
+        right: -10px;
+        top: -10px;
+    }
+
+    .featured-service-main .featured-services-listing .block .caption .fancy-circle h4 {
+        font-size: 42px;
+        line-height: 42px;
+    }
+
+    .featured-service-main .featured-services-listing .block .caption .fancy-circle h5 {
+        font-size: 26px;
+        line-height: 26px;
+    }
+
+
+    .intro-main .heading h2 {
+        background-size: 100%;
+        font-size: 74px;
+    }
+
+    .intro-main .intro-text{
+        padding: 0px 2% 75px;
+        font-size: 32px;
+    }
+    .intro-main .intro-text p {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    .featured-service-main {
+        padding: 85px 0px 120px;
+    }
+    
+
+    .featured-service-main .heading h2 {
+        font-size: 84px;
+    }
+
+    .voucher-section .vouchers-listing {
+        padding: 0px 0px;
+    }
+
+    .voucher-section .vouchers-listing .voucher-block {
+        width: 32%;
+    }
+    .voucher-section .vouchers-listing .voucher-block .head h2 {
+        font-size: 36px;
+    }
+
+    .voucher-section .vouchers-listing .voucher-block .head .fancy-circle {
+        left: -40px;
+        top: -40px;
+        width: 120px;
+        height: 120px;
+    }
+    .voucher-section .vouchers-listing .voucher-block .head .fancy-circle h4 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .voucher-section .vouchers-listing .voucher-block .head .fancy-circle h5 {
+        font-size: 26px;
+        line-height: 26px;
+    }
+
+    .voucher-section .heading h2 {
+        font-size: 84px;
+    }
+
+    .voucher-section .head-text {
+        padding: 0px 2%;
+        font-size: 32px;
+    }
+
+    .trending-section .heading h2 {
+        font-size: 84px;
+    }
+
+    .trending-section .heading .head-text {
+        font-size: 32px;
+        line-height: 45px;
+        padding: 0px 5%;
+    }
+
+    .footer-main .ftr-logo {
+        max-width: 250px;
+        min-width: 250px;
+    }
+
+    .footer-main .ftr-nav ul li a {
+        padding: 10px 10px;
+        font-size: 14px;
+    }
+
+    .footer-main .social-links h3 {
+        font-size: 18px;
+        margin-right: 15px;
+        color: #fff;
+    }
+
+    .footer-main .social-links ul li a {
+        width: 28px;
+        height: 28px;
+        font-size: 18px;
+    }
+
+    .about-main .heading h2 {
+        width: 40%;
+        font-size: 84px;
+    }
+
+    .about-main .heading .heading-text {
+        width: 55%;        
+    }
+    .about-main .heading .heading-text p {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .about-main .heading.service .heading-text p {
+        font-size: 32px;
+        line-height: 42px;
+    }
+
+    .about-services-main {
+        padding-left: 0px;
+    }
+
+    .about-services-main .service-block .block-heading .head {
+        width: 40%;
+    }
+
+    .about-services-main .service-block .block-heading .head h2 {
+        font-size: 60px;
+    }
+
+    .about-services-main .service-block .block-heading .head-offer {
+        width: 58%;
+    }
+
+    .appointment-main .heading h2 {
+        font-size: 84px;
+        width: 100%;
+    }
+
+    .appointment-main .heading::after {
+        content: "";
+        width: 100%;
+        left: 0px;
+    }
+
+    
+    .vouchers-main .heading h2 {
+        font-size: 84px;
+    }
+
+    .vouchers-main .heading .heading-text {
+        width: 50%;
+    }
+
+    .vouchers-main .heading .heading-text p {
+        font-size: 24px;
+        line-height: 36px;
+    }
+    
+    
+}
+
+@media screen and (max-width: 960px) {
+
+    .header-main .header-right .hamburger{
+        display: block;
+    }
+
+    .header-main.sticky {
+        position: relative;
+        box-shadow: none;
+    }
+
+    .footer-main .container {        
+        flex-wrap: wrap;
+    }
+
+    .header-nav {
+        display: none;
+    }
+
+    .header-main .header-middle .social-links h3 {
+        font-size: 18px;
+        margin-right: 15px;
+    }
+
+    .popular-section::after {
+        height: 120%;
+    }
+
+    .popular-section .popular-listings .listing-box {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .popular-section .popular-listings .listing-box .box {
+        width: 47%;
+        margin: 10px 10px 35px 10px;
+        padding: 25px 15px;
+    }
+
+    .popular-section .popular-listings .listing-box .box .fancy-circle {
+        right: 0px;
+        top: 20%;
+    }
+
+    .popular-section .popular-listings .listing-box .box ul {
+        min-height: 165px;
+        max-width: 73%;
+    }
+
+    .popular-section .popular-listings .listing-box .box ul li {
+        font-size: 15px;
+    }
+
+    .intro-main .heading h2 {
+        font-size: 60px;
+    }
+    .intro-main .intro-text p {
+        font-size: 26px;
+    }
+
+    .intro-main .intro-text {
+        padding: 0px 2% 45px;
+        font-size: 32px;
+    }
+
+    .featured-service-main .featured-services-listing {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .featured-service-main .heading h2 {
+        font-size: 74px;
+    }
+
+    .voucher-section .heading h2 {
+        font-size: 60px;
+    }
+
+    .voucher-section h2 span::before,
+    .voucher-section h2 span::after {
+        width: 125px;
+        height: 50px;
+    }
+
+    .voucher-section .head-text {
+        font-size: 26px;
+        line-height: 38px;
+    }
+
+    .voucher-section .vouchers-listing {
+        padding: 0px 0px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .voucher-section .vouchers-listing .voucher-block {
+        width: 46%;
+        margin: 10px 10px 55px 10px ;
+    }
+
+    .trending-section .heading h2 {
+        font-size: 64px;
+    }
+
+    .trending-section .heading h2 span::after {
+        position: absolute;
+        right: -40px;
+        top: -80px;
+    }
+
+    .trending-section .trending-list .fancy-circle {
+        width: 220px;
+        height: 220px;
+    }
+
+    .trending-section .heading .head-text {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .footer-main .container {
+        justify-content: center;
+    }
+
+    .footer-main .ftr-right {
+        width: 100%;
+    }
+
+    .footer-main .ftr-nav ul {
+        justify-content: center;
+        width: 100%;
+    }
+
+    .footer-main .social-links {
+        justify-content: center;
+        margin-right: 0px;
+        width: 100%;
+    }
+
+    .about-main .heading h2 {
+        font-size: 64px;
+    }
+
+    .about-main .heading::after {
+        left: 50px;
+        top: -70px;
+    }
+
+    .about-main .heading.service .heading-text p {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .about-services-main .service-block {
+        margin-bottom: 100px;
+    }
+
+    .about-services-main .service-block .block-heading {
+       display: block;
+    }
+
+    .about-services-main .service-block .block-heading .head {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+
+    .about-services-main .service-block .block-heading .head-offer {
+        width: 100%;
+    }
+
+    .about-services-main .service-block .service-plans .plan-block {
+        width: 50%;
+    }
+
+    .about-services-main .service-block .service-plans .plan-block:nth-child(3) {
+        width: 100%;
+        margin:20px 0px 0px 0px;
+        padding: 0;
+    }
+
+    .about-services-main .service-block .service-plans .plan-block:nth-child(3) .plan-head{
+        width: 100%;
+    }
+
+    .about-services-main .service-block .service-plans .plan-head button {
+        position: absolute;
+        right: 0px;
+        top: 13px;
+    }
+
+    .appointment-main .heading h2 {
+        font-size: 64px;
+        width: 100%;
+    }
+    .appointment-main .heading::after {
+        height: 145px;
+    }
+
+    .appointment-main .appointment-listing .block {
+        padding: 20px 10px;
+    }
+
+    .appointment-main .appointment-listing .block button{
+        padding: 10px 15px;
+        font-size: 16px;
+    }
+    .appointment-main .appointment-listing .block .inner-block {
+        padding: 15px;
+    }
+
+    .appointment-main .appointment-listing .block .inner-block h3 {
+        font-size: 20px;
+    }
+
+    .appointment-main .container {
+        padding-bottom: 100px;
+    }
+
+    .vouchers-main .heading h2 {
+        font-size: 64px;
+    }
+
+    .vouchers-main .heading::after {
+        left: 70px;
+        top: -80px;
+    }
+
+    .vouchers-main .vouchers-listing .head {
+        font-size: 24px;
+    }
+
+    .vouchers-main .vouchers-listing .listings {
+        grid-template-columns: 50% 50%;
+        gap: 20px;
+    }
+
+    .vouchers-main .vouchers-listing .listings .card h3 {
+        font-size: 26px;
+        line-height: 28px;
+        color: #fff;
+        max-width: 100%;
+        margin-bottom: 10px;
+    }
+    .vouchers-main .vouchers-listing .listings .card:nth-child(3n + 2) .text .cost .fancy-circle,
+    .vouchers-main .vouchers-listing .listings .card .text .cost .fancy-circle {
+        margin-top: 0px;
+    }
+
+    .vouchers-main .vouchers-listing .listings .card.none {
+        display: none;
+    }
+    
+    
+}
+
+@media screen and (max-width: 800px) {}
+
+@media (max-width: 780px) {}
+
+@media screen and (max-width: 600px) {
+
+    
+
+   
+    .header-main .logo img {
+        min-width: 250px;
+    }
+
+    .header-main .header-middle {
+        padding: 30px 15px;
+    }
+
+    .header-main .header-middle .social-links {
+     display: none;
+    }
+
+
+    .hero-section .slide-1 {
+        min-height: 680px;
+    }
+
+    .hero-section .hero-caption {
+        bottom: 180px;
+    }
+
+    .hero-section .hero-caption h3 {
+        font-size: 20px;
+    }
+
+    .hero-section .hero-caption .fancy-circle {
+        right: 0px;
+        font-size: 26px;
+        width: 180px;
+        height: 180px;
+    }
+
+    .hero-section .hero-caption ul li {
+        font-size: 18px;
+        line-height: 35px;
+    }
+
+    .hero-section .hero-caption ul li::before {
+        width: 8px;
+        height: 8px;
+    }
+
+    
+    .popular-section .heading h2 {
+        font-size: 45px;
+        font-family: "Bebas Neue", sans-serif;
+        margin-bottom: 35px;
+    }
+    
+    
+
+    
+    .popular-section::after {
+        height: 100%;
+    }
+
+    .popular-section .popular-listings .listing-box .box {
+        width: 100%;
+    }
+
+ 
+    .featured-service-main {
+        padding: 85px 0px 70px;
+    }
+
+    .featured-service-main .featured-services-listing {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .featured-service-main .heading h2 span::after {
+        right: 0px;
+    }
+
+    .featured-service-main .featured-services-listing .block {
+        border: 0px dashed #fec6d1;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .trending-section .trending-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .trending-section .trending-list .fancy-circle {
+        width: 180px;
+        height: 180px;
+        margin: 0px auto;
+    }
+
+    .voucher-section .vouchers-listing .voucher-block {
+        width: 100%;
+        margin: 10px 10px 55px 10px;
+    }
+
+    .footer-main .ftr-nav ul {
+        flex-wrap: wrap;
+    }
+    .trending-section .heading h2 span::after {
+        right: 15px;
+    }
+
+    .about-main .heading {
+        flex-wrap: wrap;
+    }
+
+    .about-main .heading h2 {
+        width: 100%;        
+    }
+    .about-main .heading .heading-text {
+        width: 100%;
+    }
+    .about-main .aboutus-intro{
+        flex-wrap: wrap;
+        margin: 0px 0px 100px;
+    }
+    .about-main .aboutus-intro .thumb{
+        width: 100%;
+    }
+    .about-main .aboutus-intro .about-content{
+        width: 100%;
+    }
+
+    .about-main .heading::after {
+        left: 0px;
+        top: -70px;
+        width: 100%;
+    }
+
+    .about-services-main .service-block .block-heading .head h2 {
+        font-size: 40px;
+    }
+
+    .about-services-main .service-block .block-heading .head p {
+        font-size: 16px;
+    }
+
+    .about-services-main .service-block .block-heading .head-offer .offer h3 {
+        font-size: 32px;
+    }
+
+    .about-services-main .service-block .block-heading .head-offer .offer h3 span {
+        font-size: 17px;
+        transform: translate(-6px, -14px);
+    }
+
+    .about-services-main .service-block .block-heading .head-offer .offer .fancy-circle {
+        width: 105px;
+        height: 105px;
+    }
+
+    .about-services-main .service-block .block-heading .head-offer .offer .fancy-circle h4 {
+        font-size: 34px;
+    }
+
+    .about-services-main .service-block .block-heading .head-offer .offer .fancy-circle h4 span {
+        font-size: 17px;
+        line-height: 18px;
+        transform: translate(0px, -16px);
+    }
+    
+
+    .about-services-main .service-block .service-plans .plan-block:nth-child(1),
+    .about-services-main .service-block .service-plans .plan-block {
+        width: 100%;
+        border: none;
+        padding: 0px 0px 15px 0px ;
+        margin: 0px 0px 15px 0px ;
+        border-bottom: 1px solid #fff;
+    }
+
+    .about-services-main .service-block .service-plans .plan-block:nth-child(3),
+    .about-services-main .service-block .service-plans .plan-block.addons {
+        margin: 0px 0px 0px 0px;
+        width: 100%;
+    }
+
+    .about-services-main .service-block .service-plans .plan-block:nth-child(3) .plan-head,
+    .about-services-main .service-block .service-plans .plan-block.addons .plan-head {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .about-services-main .service-block .service-plans .plan-block:nth-child(3) .plan-head h3,
+    .about-services-main .service-block .service-plans .plan-block.addons .plan-head h3{
+        width: 100%;
+    }
+
+    .about-services-main .service-block .service-plans .plan-block:nth-child(3)  .plan-head button,
+    .about-services-main .service-block .service-plans .plan-block.addons .plan-head button{
+        position: relative;
+        right: 0px;
+        top: 0px;
+        margin-bottom: 20px;
+    }
+
+    .about-services-main .service-block .service-plans .plan-head h3 {
+        font-size: 36px;
+        color: #fff;
+    }
+
+    .about-services-main .service-block .service-plans .plan-block ul li {
+        font-size: 16px;
+    }
+
+    .about-services-main .service-block .notice {
+        padding: 20px 0px 0;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+
+    .appointment-main .container {
+        padding-bottom: 0px;
+    }
+
+    .appointment-main .appointment-listing {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .appointment-main .appointment-listing .block {
+        padding: 10px 0px;
+        border-top: 0px dashed #ccc;
+        border-right: 0px dashed #ccc;
+    }
+
+    .vouchers-main .vouchers-listing .listings {
+        grid-template-columns: 100%;
+        gap: 20px;
+    }
+
+    .vouchers-main .heading{
+        flex-wrap: wrap;
+    }
+
+    .vouchers-main .heading h2 {
+        font-size: 64px;
+        width: 100%;
+    }
+
+    .vouchers-main .heading .heading-text {
+        width: 100%;
+    }
+
+    .vouchers-main .heading::after {
+        left: 0;
+        top: -80px;
+        width: 100%;
+    }
+
+    .header-main .header-offer {
+        padding: 15px 45px;
+        font-size: 18px;
+    }
+
+    
+}
